@@ -9,7 +9,8 @@
 
 🔭 I’m currently working on ...
 
-- College Application Essays 
+- College Applications 
+- Reading 'The Nature of Code' (Daniel Shiffman) 
 
 🌱 I’m currently learning ...
 
@@ -19,11 +20,13 @@
 - Tensorflow 
 - Various Nocoding tools (Airtable, Carrd, Zapier, etc.) 
 - Notion 
+- Processing 
 
 
 📫 How to reach me: ...
 
 - email : jefflee.ldh@gmail.com 
+- website : [Deokhaeng's Digital Brain](https://www.notion.so/Deokhaeng-Lee-s-Digital-Brain-128b8f5e65684c77838889a8df3ad8ec) 
 - mobile : +821056083141
 
 ⚡ Fun fact: ...
