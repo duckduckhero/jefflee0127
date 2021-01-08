@@ -26,7 +26,6 @@
 📫 How to reach me: ...
 
 - email : jefflee.ldh@gmail.com 
-- website : [Deokhaeng's Digital Brain](https://www.notion.so/Deokhaeng-Lee-s-Digital-Brain-128b8f5e65684c77838889a8df3ad8ec) 
 - mobile : +821056083141
 
 ⚡ Fun fact: ...
