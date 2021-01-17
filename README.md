@@ -9,24 +9,21 @@
 
 🔭 I’m currently working on ...
 
-- College Applications 
+- Binge-Watching Netflix Shows 
 - Reading 'The Nature of Code' (Daniel Shiffman) 
 
 🌱 I’m currently learning ...
 
-- Writing English essays 
-- Python programming 
-- Bootstrap 
-- Tensorflow 
-- Various Nocoding tools (Airtable, Carrd, Zapier, etc.) 
-- Notion 
-- Processing 
+- Notion
+- Javascript 
+- CSS 
 
 
 📫 How to reach me: ...
 
 - email : jefflee.ldh@gmail.com 
 - mobile : +821056083141
+- Portfolio : https://deokhaengportfolio.oopy.io/
 
 ⚡ Fun fact: ...
 
