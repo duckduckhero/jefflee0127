@@ -21,9 +21,9 @@
 
 📫 How to reach me: ...
 
-- email : jefflee.ldh@gmail.com 
+- email : deokhaeng.lee@duke.edu
 - mobile : +821056083141
-- Portfolio : https://deokhaengportfolio.oopy.io/
+
 
 ⚡ Fun fact: ...
 
