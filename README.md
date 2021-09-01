@@ -7,10 +7,12 @@
 - 2019 Korea Science & Engineering Fair Silver Prize, Computer Science Divsion 
 - 2020 International Science & Engineering Fair Finalist, Systems Software 
 
-🔭 I’m currently working on ...
+🔭 Projects 
 
-- Binge-Watching Netflix Shows 
-- Reading 'The Nature of Code' (Daniel Shiffman) 
+- [Ahoy!](https://chrome.google.com/webstore/detail/ahoy/ahepineneaniaknbpemfghfamobkhpkn?hl=en&authuser=0)
+- [RhymeBot](https://agile-lowlands-39968.herokuapp.com/)
+- [Meepli](https://desolate-thicket-30000.herokuapp.com/)
+- [BabyCatch](https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=2020%2C&Category=Any%20Category&AllAbstracts=True&FairCountry=South%20Korea&FairState=Any%20State&Keywords=babycatch&ProjectId=19106)
 
 🌱 I’m currently learning ...
 
