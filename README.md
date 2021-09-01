@@ -22,7 +22,7 @@
 📫 How to reach me: ...
 
 - email : deokhaeng.lee@duke.edu
-- mobile : +821056083141
+- mobile : +1 919 884 0026
 
 
 ⚡ Fun fact: ...
